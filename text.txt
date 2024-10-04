@@ -1,0 +1,12 @@
+Me: hii
+Meta AI: Hello! Welcome to MCare AI, your friendly health assistant. How can I help you today? Do you have a health question or concern you'd like to discuss? I'm here to provide helpful advice and remedies.
+
+Me: i am felling cold
+Meta AI: Sorry to hear that you're feeling cold! Here are some remedies to help you warm up:
+Drink a warm cup of tea, like ginger or peppermint, to raise your body temperature.
+Take a warm bath or shower to relax and get cozy.
+Wear layers of clothing to trap warmth and stay snug.
+Use a humidifier to add moisture to the air and relieve congestion.
+Try steam inhalation with a bowl of hot water or a steam inhaler.
+Feel better soon! If your symptoms persist, please consult a healthcare professional.
+
